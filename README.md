@@ -15,4 +15,5 @@ A fully functional **Single Page Application (SPA)** built using vanilla JavaScr
 - 🛠️ Clean Code Structure for Easy Maintenance
 
 
-
+#### Live Demo
+[Live Demo](https://task-manager-spa-project.netlify.app/)
